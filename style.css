@@ -49,7 +49,8 @@ p{
 
 .logo {
   max-height: 85px;
-  padding: 3px 0;
+  padding: 1rem 0;
+  max-width: 120px;
 }
 
 .scroll-nav .logo {
